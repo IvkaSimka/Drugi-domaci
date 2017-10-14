@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+}
+#ukoso {
+	font-style: italic;
+	text-align: right;
+}
+p {
+	font-style: normal;
+	text-align: right;
+}
+.GlPar {
+	font-size: large;
+	text-align: justify;
+}
+.GlPar::first-letter {
+    font-size: 200%;
+    color: #000000;
+    }    
+span {
+	text-indent: 30px;
+}
+img {
+	display: block;
+    margin: auto;
+}
+body {
+	background-color: #E6E6FA;
+	margin: 0cm 8.5cm 0cm 8.5cm;
+}
